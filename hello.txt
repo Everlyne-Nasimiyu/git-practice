@@ -1,0 +1,1 @@
+"Hello, this is my first Git project. I am learning Git and GitHub project step by step."
